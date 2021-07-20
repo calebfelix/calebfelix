@@ -9,7 +9,7 @@
 
 
 ## Skills:
-Python / Java / JS / HTML / CSS / MySQL
++ Python / Java / JS / HTML / CSS / MySQL
 
 ## Frameworks:
 Flask / React
