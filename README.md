@@ -12,7 +12,7 @@
 + Python / Java / JS / HTML / CSS / MySQL
 
 ## Frameworks:
-Flask / React
++ Flask / React
 
 
 
