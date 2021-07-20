@@ -8,7 +8,7 @@
 
 
 
-## Languages:
+## Skills:
 Python / Java / JS / HTML / CSS / MySQL
 
 ## Frameworks:
