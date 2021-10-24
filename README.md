@@ -1,7 +1,7 @@
 > Hi there 👋, Caleb Felix here
 
 
- ![Caleb Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/anuraghazra/github-readme-stats)  
+ ![Caleb Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react) &emsp; &emsp; &emsp; &emsp; &emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/anuraghazra/github-readme-stats)  
 
 
  ## Skills:
@@ -10,11 +10,12 @@
 + JS 
 + HTML 
 + CSS 
++ C++
 + MySQL
 
  ## Frameworks:
 + Flask 
-+ React
++ Express
 
 <!--
 > ## Socials:
@@ -23,6 +24,6 @@
 
 -->
  ## Socials:
-[<img height='25' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cat10nn/) &nbsp;
+[<img height='25' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cat10nn/) &emsp;
 [<img height='28' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/https://github.com/calebfelix)
 
