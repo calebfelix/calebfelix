@@ -28,4 +28,4 @@
 [<img height='28' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/https://github.com/calebfelix)<br>
 
 > TryhackMe Badges:
-<img height='50' src="https://tryhackme.com/img/badges/linux.svg">
+<img height='45' src="https://tryhackme.com/img/badges/linux.svg">
