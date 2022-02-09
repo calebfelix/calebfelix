@@ -9,14 +9,15 @@
 + Python 
 + Java 
 + JS 
++ Solidity
 + HTML 
 + CSS 
 + C++
 
- ## Frameworks:
+<!--  ## Frameworks:
 + Flask 
 + Express
-
+ -->
 <!--
 > ## Socials:
 
