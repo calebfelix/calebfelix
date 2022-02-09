@@ -10,8 +10,7 @@
 + Java 
 + JS 
 + Solidity
-+ HTML 
-+ CSS 
++ HTML/CSS 
 + C++
 
 <!--  ## Frameworks:
