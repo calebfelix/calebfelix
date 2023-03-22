@@ -1,7 +1,7 @@
 > Hi there 👋, Caleb Felix here
 
 
- ![Caleb Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react) &nbsp;
+<!--  ![Caleb Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react) &nbsp; -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
