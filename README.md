@@ -23,7 +23,7 @@ Happy hacking! 😄🔒
 &emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/calebfelix/github-readme-stats)
 
 # TryHackMe Badges:
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Cat10n.png" alt="TryHackMe">](https://tryhackme.com/p/Cat10n)
+[<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Cat10n.png" alt="TryHackMe">](https://tryhackme.com/p/Cat10n)
 
 [<img height='45' title="cat linux.txt" src="https://tryhackme.com/img/badges/linux.svg">](https://tryhackme.com/Cat10n/badges/terminaled)&emsp;
 [<img height='45' title="7 Day Streak" src="https://tryhackme.com/img/badges/streak7.svg">](https://tryhackme.com/Cat10n/badges/7-day-streak)
