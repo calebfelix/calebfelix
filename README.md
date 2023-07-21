@@ -1,4 +1,14 @@
-> Hi there 👋, Caleb Felix here
+### Welcome to my GitHub!
+
+👋 Howdy! I'm Caleb, an ethical hacker and cybersecurity enthusiast.
+
+🔒 Passionate about securing the digital world.
+
+🌱 Lifelong learner, always seeking new challenges.
+
+💬 Let's collaborate and make the internet safer!
+
+Happy hacking! 😄🔒
 
 
 <!--  ![Caleb Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react) &nbsp; -->
