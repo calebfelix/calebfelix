@@ -6,18 +6,13 @@
 
 
  ## Skills:
-+ Python 
-+ Java 
-+ JS 
-+ Solidity
-+ HTML/CSS 
-+ C++
+[![Skills](https://skillicons.dev/icons?i=python,bash,linux,java,nodejs,html,react,mongodb,figma&perline=10)](https://skillicons.dev)
 
-# Stats
-[![caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix)](https://github.com/calebfelix/github-readme-stats)
+# Stats:
+[![caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react)](https://github.com/calebfelix/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/calebfelix/github-readme-stats)
 
 # TryHackMe Badges:
-
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Cat10n.png" alt="TryHackMe">](https://tryhackme.com/p/Cat10n)
 
 [<img height='45' title="cat linux.txt" src="https://tryhackme.com/img/badges/linux.svg">](https://tryhackme.com/Cat10n/badges/terminaled)&emsp;
