@@ -10,7 +10,7 @@
 
 # Stats:
 [![caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react)](https://github.com/calebfelix/github-readme-stats)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/calebfelix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/calebfelix/github-readme-stats)
 
 # TryHackMe Badges:
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Cat10n.png" alt="TryHackMe">](https://tryhackme.com/p/Cat10n)
