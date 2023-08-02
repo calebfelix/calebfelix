@@ -1,5 +1,7 @@
 ### Welcome to my GitHub!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+CALEB+-+aka+Cat10n)](https://git.io/typing-svg)
+
 👋 Howdy! I'm Caleb, an ethical hacker and cybersecurity enthusiast.
 
 🔒 Passionate about securing the digital world.
