@@ -3,16 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+CALEB+-+aka+Cat10n)](https://git.io/typing-svg)] -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=karla&pause=1000&color=17F705&vCenter=true&multiline=true&width=500&lines=What's+up!+I'm+Caleb+Felix+-+a.k.a+Cat10n)](https://git.io/typing-svg)
 
-👋 Howdy! I'm Caleb, an ethical hacker and cybersecurity enthusiast.
-
-🔒 Passionate about securing the digital world.
-
-🌱 Lifelong learner, always seeking new challenges.
-
-💬 Let's collaborate and make the internet safer!
-
-Happy hacking! 😄🔒
-
+👋 Howdy! I'm Caleb, a Developer, ethical hacker and cybersecurity enthusiast.
 
 <!--  ![Caleb Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react) &nbsp; -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/anuraghazra/github-readme-stats) -->
