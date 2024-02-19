@@ -10,7 +10,7 @@
 
 
  ## Skills:
-[![Skills](https://skillicons.dev/icons?i=python,bash,linux,git,java,nodejs,html,react,mongodb,figma&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,bash,linux,git,docker,nodejs,react,next,mongodb,postgresql,figma&perline=20)](https://skillicons.dev)
 
 # Stats:
 [![caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react)](https://github.com/calebfelix/github-readme-stats)
