@@ -12,11 +12,41 @@
  ## Skills:
 [![Skills](https://skillicons.dev/icons?i=python,bash,linux,git,docker,nodejs,react,next,mongodb,postgresql,figma&perline=20)](https://skillicons.dev)
 
-# Stats:
-[![caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebfelix&show_icons=true&theme=react)](https://github.com/calebfelix/github-readme-stats)
-&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix)](https://github.com/calebfelix/github-readme-stats)
+## GitHub Stats:
 
-# TryHackMe Badges:
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=calebfelix&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=calebfelix&theme=dark&hide_border=false" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github-contributor-stats.vercel.app/api?username=calebfelix&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebfelix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+## TryHackMe Badges:
 [<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Cat10n.png" alt="TryHackMe">](https://tryhackme.com/p/Cat10n)
 
 [<img height='45' title="cat linux.txt" src="https://tryhackme.com/img/badges/linux.svg">](https://tryhackme.com/Cat10n/badges/terminaled)&emsp;
